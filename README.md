@@ -3,11 +3,9 @@
 
 🔴 Technologies used, **HTML, CSS, JS**
 
-<img src="head.png">
 
 
-# Welcome to UNO!:peanuts:
-[![forthebadge play-here-uno](play-here-uno.svg)](https://abhisheks008.github.io/UNO/) <img src="https://github.com/abhisheks008/UNO/blob/main/images/uno!.png" height="60px">
+# Welcome to UNO!
 
 # How this game works:hourglass:
 
