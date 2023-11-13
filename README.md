@@ -104,6 +104,3 @@ These messages and the Game Over screen will be the only on screen prompts in an
 The goal is to create an aesthetically pleasing, minimal-yet-satisfying game loop that is relaxing and entertaining and that - hopefully - users will want to play again and again.
 
 ---------------------------------------------
-
-### ©️ Code Contributed by, Abhishek Sharma, 2022 :link: <a href = "https://github.com/abhisheks008"> abhisheks008 </a>
-#### Show some :heart: if you like it!
